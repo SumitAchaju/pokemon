@@ -1,0 +1,6 @@
+fastapi
+ujson
+requests
+asyncpg
+psycopg2-binary
+sqlalchemy[asyncio]
