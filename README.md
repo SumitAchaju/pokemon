@@ -19,6 +19,8 @@ Run
 > **Note:**
 > Make sure docker is installed and initilized in your computer and you are in root directory of this project.
 
+Then the fastapi server is hosted in localhost:8000
+
 ## API Reference
 
 #### Load 100 pokemons data from https://pokeapi.co/
